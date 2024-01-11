@@ -12,4 +12,4 @@ nonebot.load_builtin_plugins("echo")
 nonebot.load_plugin("nonebot_plugin_gocqhttp")
 
 if __name__ == "__main__":
-    nonebot.run(app="__main__:app")
+    nonebot.run(app="__main__:app")  
