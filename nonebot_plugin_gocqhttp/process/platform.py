@@ -9,7 +9,7 @@ _SYSTEM_MAP = {
     "Darwin": "darwin",
 }
 
-_ARCHITECTURE_MAP = {
+_ARCHITECTURE_MAP = {  
     "X86_32": "386",
     "X86_64": "amd64",
     "ARM_7": "armv7",
